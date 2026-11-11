@@ -1,0 +1,265 @@
+text,m,group,algorithm,inspections_per_char,time_ms
+DNA,2,Trái → phải,Not So Naive,0.8565,8.28
+DNA,2,Trái → phải,Karp-Rabin,2.1376,16.16
+DNA,2,Trái → phải,Shift Or,1.0,10.67
+DNA,2,Trái → phải,Morris-Pratt,1.1877,12.05
+DNA,2,Trái → phải,Knuth-Morris-Pratt,1.984,16.84
+DNA,2,Trái → phải,Automat hữu hạn,1.0,7.02
+DNA,2,Phải → trái,Turbo BM,1.2044,27.67
+DNA,2,Phải → trái,Quick Search,0.9977,15.2
+DNA,2,Phải → trái,Zhu-Takaoka,1.7304,19.16
+DNA,2,Phải → trái,Berry-Ravindran,1.1557,14.84
+DNA,2,Phải → trái,BNDM,0.7136,16.58
+DNA,2,Phải → trái,Backward Oracle Matching,0.8556,14.39
+DNA,2,Vị trí xác định,Optimal Mismatch,0.9472,16.78
+DNA,2,Vị trí xác định,Maximal Shift,0.9375,14.68
+DNA,2,Vị trí xác định,Skip Search,0.9066,8.06
+DNA,2,Vị trí xác định,KMP Skip Search,0.8714,13.51
+DNA,2,Vị trí xác định,Alpha Skip Search,0.9066,11.24
+DNA,2,Vị trí bất kỳ,Boyer-Moore,1.222,12.57
+DNA,2,Vị trí bất kỳ,Horspool,0.7136,8.39
+DNA,2,Vị trí bất kỳ,Tuned Boyer-Moore,0.8406,12.38
+DNA,2,Vị trí bất kỳ,Smith,1.3475,15.47
+DNA,2,Vị trí bất kỳ,Raita,0.8562,8.21
+DNA,4,Trái → phải,Not So Naive,0.9104,8.22
+DNA,4,Trái → phải,Karp-Rabin,2.0203,20.75
+DNA,4,Trái → phải,Shift Or,1.0,9.54
+DNA,4,Trái → phải,Morris-Pratt,1.2398,11.23
+DNA,4,Trái → phải,Knuth-Morris-Pratt,2.0349,16.14
+DNA,4,Trái → phải,Automat hữu hạn,1.0,9.63
+DNA,4,Phải → trái,Turbo BM,0.8297,13.2
+DNA,4,Phải → trái,Quick Search,0.8089,9.36
+DNA,4,Phải → trái,Zhu-Takaoka,0.9516,11.78
+DNA,4,Phải → trái,Berry-Ravindran,0.8778,11.09
+DNA,4,Phải → trái,BNDM,0.4821,8.85
+DNA,4,Phải → trái,Backward Oracle Matching,0.5991,6.93
+DNA,4,Vị trí xác định,Optimal Mismatch,0.7693,11.4
+DNA,4,Vị trí xác định,Maximal Shift,0.7346,8.29
+DNA,4,Vị trí xác định,Skip Search,0.6617,6.59
+DNA,4,Vị trí xác định,KMP Skip Search,0.6295,11.4
+DNA,4,Vị trí xác định,Alpha Skip Search,0.6417,7.62
+DNA,4,Vị trí bất kỳ,Boyer-Moore,0.8316,8.5
+DNA,4,Vị trí bất kỳ,Horspool,0.4957,5.7
+DNA,4,Vị trí bất kỳ,Tuned Boyer-Moore,0.5768,7.98
+DNA,4,Vị trí bất kỳ,Smith,0.9603,12.46
+DNA,4,Vị trí bất kỳ,Raita,0.5107,5.47
+DNA,8,Trái → phải,Not So Naive,1.0361,9.31
+DNA,8,Trái → phải,Karp-Rabin,2.0008,19.89
+DNA,8,Trái → phải,Shift Or,1.0,11.81
+DNA,8,Trái → phải,Morris-Pratt,1.2465,10.92
+DNA,8,Trái → phải,Knuth-Morris-Pratt,2.0154,14.68
+DNA,8,Trái → phải,Automat hữu hạn,1.0,5.49
+DNA,8,Phải → trái,Turbo BM,0.6423,9.67
+DNA,8,Phải → trái,Quick Search,0.7162,10.59
+DNA,8,Phải → trái,Zhu-Takaoka,0.5351,7.52
+DNA,8,Phải → trái,Berry-Ravindran,0.5971,7.44
+DNA,8,Phải → trái,BNDM,0.3094,5.01
+DNA,8,Phải → trái,Backward Oracle Matching,0.3795,5.51
+DNA,8,Vị trí xác định,Optimal Mismatch,0.6207,13.35
+DNA,8,Vị trí xác định,Maximal Shift,0.5447,6.34
+DNA,8,Vị trí xác định,Skip Search,0.4993,4.79
+DNA,8,Vị trí xác định,KMP Skip Search,0.4867,9.83
+DNA,8,Vị trí xác định,Alpha Skip Search,0.4993,6.32
+DNA,8,Vị trí bất kỳ,Boyer-Moore,0.6435,7.08
+DNA,8,Vị trí bất kỳ,Horspool,0.4229,4.52
+DNA,8,Vị trí bất kỳ,Tuned Boyer-Moore,0.4931,6.19
+DNA,8,Vị trí bất kỳ,Smith,0.7814,7.21
+DNA,8,Vị trí bất kỳ,Raita,0.436,4.26
+DNA,16,Trái → phải,Not So Naive,0.9752,9.37
+DNA,16,Trái → phải,Karp-Rabin,2.0,21.88
+DNA,16,Trái → phải,Shift Or,1.0,16.41
+DNA,16,Trái → phải,Morris-Pratt,1.2451,13.21
+DNA,16,Trái → phải,Knuth-Morris-Pratt,2.0278,15.07
+DNA,16,Trái → phải,Automat hữu hạn,1.0,8.08
+DNA,16,Phải → trái,Turbo BM,0.512,10.04
+DNA,16,Phải → trái,Quick Search,0.6908,8.38
+DNA,16,Phải → trái,Zhu-Takaoka,0.3242,3.49
+DNA,16,Phải → trái,Berry-Ravindran,0.426,4.44
+DNA,16,Phải → trái,BNDM,0.1838,3.23
+DNA,16,Phải → trái,Backward Oracle Matching,0.2146,2.04
+DNA,16,Vị trí xác định,Optimal Mismatch,0.5486,10.5
+DNA,16,Vị trí xác định,Maximal Shift,0.4163,4.79
+DNA,16,Vị trí xác định,Skip Search,0.4163,4.31
+DNA,16,Vị trí xác định,KMP Skip Search,0.4021,8.89
+DNA,16,Vị trí xác định,Alpha Skip Search,0.2278,2.43
+DNA,16,Vị trí bất kỳ,Boyer-Moore,0.5138,5.42
+DNA,16,Vị trí bất kỳ,Horspool,0.4049,4.26
+DNA,16,Vị trí bất kỳ,Tuned Boyer-Moore,0.4725,8.42
+DNA,16,Vị trí bất kỳ,Smith,0.7302,10.46
+DNA,16,Vị trí bất kỳ,Raita,0.4065,5.67
+DNA,32,Trái → phải,Not So Naive,1.0362,8.42
+DNA,32,Trái → phải,Karp-Rabin,2.0,39.59
+DNA,32,Trái → phải,Shift Or,1.0,23.55
+DNA,32,Trái → phải,Morris-Pratt,1.2476,11.19
+DNA,32,Trái → phải,Knuth-Morris-Pratt,2.0203,16.69
+DNA,32,Trái → phải,Automat hữu hạn,1.0,8.12
+DNA,32,Phải → trái,Turbo BM,0.4276,8.42
+DNA,32,Phải → trái,Quick Search,0.6747,8.52
+DNA,32,Phải → trái,Zhu-Takaoka,0.2379,2.89
+DNA,32,Phải → trái,Berry-Ravindran,0.3212,3.88
+DNA,32,Phải → trái,BNDM,0.1073,2.65
+DNA,32,Phải → trái,Backward Oracle Matching,0.1217,1.86
+DNA,32,Vị trí xác định,Optimal Mismatch,0.435,9.95
+DNA,32,Vị trí xác định,Maximal Shift,0.3501,4.29
+DNA,32,Vị trí xác định,Skip Search,0.3757,5.53
+DNA,32,Vị trí xác định,KMP Skip Search,0.3653,8.59
+DNA,32,Vị trí xác định,Alpha Skip Search,0.1534,1.98
+DNA,32,Vị trí bất kỳ,Boyer-Moore,0.428,5.03
+DNA,32,Vị trí bất kỳ,Horspool,0.3853,6.1
+DNA,32,Vị trí bất kỳ,Tuned Boyer-Moore,0.4494,11.46
+DNA,32,Vị trí bất kỳ,Smith,0.7022,13.19
+DNA,32,Vị trí bất kỳ,Raita,0.3852,3.56
+DNA,64,Trái → phải,Not So Naive,1.0052,7.76
+DNA,64,Trái → phải,Karp-Rabin,2.0,23.55
+DNA,64,Trái → phải,Shift Or,1.0,25.78
+DNA,64,Trái → phải,Morris-Pratt,1.2462,16.48
+DNA,64,Trái → phải,Knuth-Morris-Pratt,2.0163,14.01
+DNA,64,Trái → phải,Automat hữu hạn,1.0,5.64
+DNA,64,Phải → trái,Turbo BM,0.3674,5.8
+DNA,64,Phải → trái,Quick Search,0.6803,7.54
+DNA,64,Phải → trái,Zhu-Takaoka,0.2031,2.17
+DNA,64,Phải → trái,Berry-Ravindran,0.2756,4.8
+DNA,64,Phải → trái,BNDM,0.0619,1.32
+DNA,64,Phải → trái,Backward Oracle Matching,0.0704,0.65
+DNA,64,Vị trí xác định,Optimal Mismatch,0.351,6.96
+DNA,64,Vị trí xác định,Maximal Shift,0.2958,3.56
+DNA,64,Vị trí xác định,Skip Search,0.3539,4.12
+DNA,64,Vị trí xác định,KMP Skip Search,0.344,7.94
+DNA,64,Vị trí xác định,Alpha Skip Search,0.0705,0.73
+DNA,64,Vị trí bất kỳ,Boyer-Moore,0.3682,3.94
+DNA,64,Vị trí bất kỳ,Horspool,0.4218,6.23
+DNA,64,Vị trí bất kỳ,Tuned Boyer-Moore,0.4917,10.75
+DNA,64,Vị trí bất kỳ,Smith,0.7552,6.86
+DNA,64,Vị trí bất kỳ,Raita,0.4217,3.92
+Text,2,Trái → phải,Not So Naive,0.9653,7.78
+Text,2,Trái → phải,Karp-Rabin,2.0215,18.13
+Text,2,Trái → phải,Shift Or,1.0,12.98
+Text,2,Trái → phải,Morris-Pratt,1.0674,11.06
+Text,2,Trái → phải,Knuth-Morris-Pratt,1.9979,13.77
+Text,2,Trái → phải,Automat hữu hạn,1.0,6.32
+Text,2,Phải → trái,Turbo BM,1.0781,17.77
+Text,2,Phải → trái,Quick Search,0.7729,9.43
+Text,2,Phải → trái,Zhu-Takaoka,1.5921,21.4
+Text,2,Phải → trái,Berry-Ravindran,0.8756,11.11
+Text,2,Phải → trái,BNDM,0.5678,16.72
+Text,2,Phải → trái,Backward Oracle Matching,0.622,13.7
+Text,2,Vị trí xác định,Optimal Mismatch,0.7562,21.2
+Text,2,Vị trí xác định,Maximal Shift,0.7713,13.97
+Text,2,Vị trí xác định,Skip Search,0.625,9.42
+Text,2,Vị trí xác định,KMP Skip Search,0.6214,8.88
+Text,2,Vị trí xác định,Alpha Skip Search,0.625,9.24
+Text,2,Vị trí bất kỳ,Boyer-Moore,1.08,14.98
+Text,2,Vị trí bất kỳ,Horspool,0.5678,6.85
+Text,2,Vị trí bất kỳ,Tuned Boyer-Moore,0.6131,7.97
+Text,2,Vị trí bất kỳ,Smith,1.1058,12.37
+Text,2,Vị trí bất kỳ,Raita,0.6159,6.36
+Text,4,Trái → phải,Not So Naive,1.0062,8.2
+Text,4,Trái → phải,Karp-Rabin,2.0022,27.89
+Text,4,Trái → phải,Shift Or,1.0,10.29
+Text,4,Trái → phải,Morris-Pratt,1.0875,10.61
+Text,4,Trái → phải,Knuth-Morris-Pratt,2.0003,15.87
+Text,4,Trái → phải,Automat hữu hạn,1.0,7.12
+Text,4,Phải → trái,Turbo BM,0.5719,12.88
+Text,4,Phải → trái,Quick Search,0.4938,10.68
+Text,4,Phải → trái,Zhu-Takaoka,0.7936,8.94
+Text,4,Phải → trái,Berry-Ravindran,0.5728,11.54
+Text,4,Phải → trái,BNDM,0.3027,10.55
+Text,4,Phải → trái,Backward Oracle Matching,0.3357,5.0
+Text,4,Vị trí xác định,Optimal Mismatch,0.466,9.47
+Text,4,Vị trí xác định,Maximal Shift,0.4737,6.08
+Text,4,Vị trí xác định,Skip Search,0.3577,4.66
+Text,4,Vị trí xác định,KMP Skip Search,0.3573,4.97
+Text,4,Vị trí xác định,Alpha Skip Search,0.3577,5.29
+Text,4,Vị trí bất kỳ,Boyer-Moore,0.5719,7.19
+Text,4,Vị trí bất kỳ,Horspool,0.3005,4.09
+Text,4,Vị trí bất kỳ,Tuned Boyer-Moore,0.3191,4.47
+Text,4,Vị trí bất kỳ,Smith,0.6772,6.93
+Text,4,Vị trí bất kỳ,Raita,0.2985,4.39
+Text,8,Trái → phải,Not So Naive,1.0039,12.71
+Text,8,Trái → phải,Karp-Rabin,2.0001,26.82
+Text,8,Trái → phải,Shift Or,1.0,14.71
+Text,8,Trái → phải,Morris-Pratt,1.0918,12.15
+Text,8,Trái → phải,Knuth-Morris-Pratt,2.0,13.49
+Text,8,Trái → phải,Automat hữu hạn,1.0,7.26
+Text,8,Phải → trái,Turbo BM,0.328,6.88
+Text,8,Phải → trái,Quick Search,0.3173,3.25
+Text,8,Phải → trái,Zhu-Takaoka,0.3949,5.61
+Text,8,Phải → trái,Berry-Ravindran,0.3481,5.73
+Text,8,Phải → trái,BNDM,0.1825,4.89
+Text,8,Phải → trái,Backward Oracle Matching,0.1989,4.05
+Text,8,Vị trí xác định,Optimal Mismatch,0.3038,13.02
+Text,8,Vị trí xác định,Maximal Shift,0.3058,4.04
+Text,8,Vị trí xác định,Skip Search,0.2124,2.94
+Text,8,Vị trí xác định,KMP Skip Search,0.2123,5.38
+Text,8,Vị trí xác định,Alpha Skip Search,0.2124,3.22
+Text,8,Vị trí bất kỳ,Boyer-Moore,0.328,4.18
+Text,8,Vị trí bất kỳ,Horspool,0.1704,3.02
+Text,8,Vị trí bất kỳ,Tuned Boyer-Moore,0.1812,3.72
+Text,8,Vị trí bất kỳ,Smith,0.3948,5.87
+Text,8,Vị trí bất kỳ,Raita,0.1701,3.07
+Text,16,Trái → phải,Not So Naive,0.9626,8.12
+Text,16,Trái → phải,Karp-Rabin,2.0,26.93
+Text,16,Trái → phải,Shift Or,1.0,16.09
+Text,16,Trái → phải,Morris-Pratt,1.0788,11.52
+Text,16,Trái → phải,Knuth-Morris-Pratt,2.002,15.88
+Text,16,Trái → phải,Automat hữu hạn,1.0,7.13
+Text,16,Phải → trái,Turbo BM,0.2015,5.08
+Text,16,Phải → trái,Quick Search,0.1999,2.13
+Text,16,Phải → trái,Zhu-Takaoka,0.2015,2.25
+Text,16,Phải → trái,Berry-Ravindran,0.1983,3.43
+Text,16,Phải → trái,BNDM,0.1076,2.31
+Text,16,Phải → trái,Backward Oracle Matching,0.113,1.31
+Text,16,Vị trí xác định,Optimal Mismatch,0.1913,6.18
+Text,16,Vị trí xác định,Maximal Shift,0.1906,2.27
+Text,16,Vị trí xác định,Skip Search,0.1507,1.62
+Text,16,Vị trí xác định,KMP Skip Search,0.1504,3.12
+Text,16,Vị trí xác định,Alpha Skip Search,0.1507,2.04
+Text,16,Vị trí bất kỳ,Boyer-Moore,0.2015,2.29
+Text,16,Vị trí bất kỳ,Horspool,0.1092,1.33
+Text,16,Vị trí bất kỳ,Tuned Boyer-Moore,0.1164,1.54
+Text,16,Vị trí bất kỳ,Smith,0.2323,2.36
+Text,16,Vị trí bất kỳ,Raita,0.1092,1.32
+Text,32,Trái → phải,Not So Naive,1.0066,8.28
+Text,32,Trái → phải,Karp-Rabin,2.0,31.88
+Text,32,Trái → phải,Shift Or,1.0,21.67
+Text,32,Trái → phải,Morris-Pratt,1.0619,10.74
+Text,32,Trái → phải,Knuth-Morris-Pratt,2.0,15.83
+Text,32,Trái → phải,Automat hữu hạn,1.0,7.05
+Text,32,Phải → trái,Turbo BM,0.1366,2.25
+Text,32,Phải → trái,Quick Search,0.1431,1.43
+Text,32,Phải → trái,Zhu-Takaoka,0.1058,1.17
+Text,32,Phải → trái,Berry-Ravindran,0.1107,1.6
+Text,32,Phải → trái,BNDM,0.0614,2.21
+Text,32,Phải → trái,Backward Oracle Matching,0.064,1.44
+Text,32,Vị trí xác định,Optimal Mismatch,0.1379,7.37
+Text,32,Vị trí xác định,Maximal Shift,0.1331,1.55
+Text,32,Vị trí xác định,Skip Search,0.1203,1.37
+Text,32,Vị trí xác định,KMP Skip Search,0.1202,2.83
+Text,32,Vị trí xác định,Alpha Skip Search,0.1203,1.59
+Text,32,Vị trí bất kỳ,Boyer-Moore,0.1366,1.55
+Text,32,Vị trí bất kỳ,Horspool,0.0743,0.87
+Text,32,Vị trí bất kỳ,Tuned Boyer-Moore,0.0795,1.07
+Text,32,Vị trí bất kỳ,Smith,0.1469,1.48
+Text,32,Vị trí bất kỳ,Raita,0.0744,0.84
+Text,64,Trái → phải,Not So Naive,1.005,10.89
+Text,64,Trái → phải,Karp-Rabin,2.0,28.71
+Text,64,Trái → phải,Shift Or,1.0,22.61
+Text,64,Trái → phải,Morris-Pratt,1.088,13.98
+Text,64,Trái → phải,Knuth-Morris-Pratt,2.0004,13.71
+Text,64,Trái → phải,Automat hữu hạn,1.0,6.31
+Text,64,Phải → trái,Turbo BM,0.1142,1.97
+Text,64,Phải → trái,Quick Search,0.1204,1.32
+Text,64,Phải → trái,Zhu-Takaoka,0.0576,0.71
+Text,64,Phải → trái,Berry-Ravindran,0.0611,0.75
+Text,64,Phải → trái,BNDM,0.0358,0.84
+Text,64,Phải → trái,Backward Oracle Matching,0.0367,0.43
+Text,64,Vị trí xác định,Optimal Mismatch,0.1125,4.98
+Text,64,Vị trí xác định,Maximal Shift,0.1063,1.48
+Text,64,Vị trí xác định,Skip Search,0.1033,1.25
+Text,64,Vị trí xác định,KMP Skip Search,0.1032,2.65
+Text,64,Vị trí xác định,Alpha Skip Search,0.1033,1.36
+Text,64,Vị trí bất kỳ,Boyer-Moore,0.1142,1.33
+Text,64,Vị trí bất kỳ,Horspool,0.0625,0.73
+Text,64,Vị trí bất kỳ,Tuned Boyer-Moore,0.0662,0.9
+Text,64,Vị trí bất kỳ,Smith,0.1168,1.2
+Text,64,Vị trí bất kỳ,Raita,0.0623,0.71
